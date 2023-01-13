@@ -19,7 +19,7 @@ define('CSS', URL.      'assets/css/');
 define('IMG', URL.      'assets/img/');
 define('JS', URL.       'assets/js/');
 
-define('APP_NAME',      'Cotizador App');
+define('APP_NAME',      'Cotizador');
 define('TAXES_RATE',    16);
 define('SHIPPING',      99.50);
 //CARGANDO FUNCIONES
