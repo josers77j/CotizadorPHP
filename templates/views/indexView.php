@@ -125,6 +125,5 @@
   </div>
   <!-- ends content -->
 
-  //cargando el footer
   <?php require_once INCLUDES.'footer.php'; ?>
 
